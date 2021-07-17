@@ -22,7 +22,7 @@ Note: if your home destination has another name, please change the word HOME to 
 
 ---
 
-Before we get into navigation, we must do the Estimate initial pose by clicking on 2D Pose estimate in RVis and drag the green arrow toward the direction where the Turtlebot3 is facing, because we need to make the TurtleBot3 in its correct location before running the navigation.
+Before we get into navigation, we must do the Estimate initial pose by clicking on 2D Pose estimate in RViz and drag the green arrow toward the direction where the Turtlebot3 is facing, because we need to make the TurtleBot3 in its correct location before running the navigation.
 
 ![02](https://user-images.githubusercontent.com/71232960/125881840-9af04790-c229-4011-b4f6-47898eeed90b.png)
 
